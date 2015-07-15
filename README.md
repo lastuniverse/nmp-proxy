@@ -38,7 +38,7 @@ test Users 2
 rcon Authed! [server_1]
 rcon Authed! [server_2]
 ```
-
+and the proxy server will be available at 127.0.0.1:25566
 
 
 ### the nmp-proxy server shows the following features:
