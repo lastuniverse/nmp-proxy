@@ -1,0 +1,30 @@
+{
+  "name": "packet_listeners",
+  "version": "0.0.1",
+  "description": "packet listeners",
+  "main": "packet_listeners.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "packet listeners",
+    "packet"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "packet_listeners@0.0.1",
+  "dist": {},
+  "_from": "packet_listeners@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

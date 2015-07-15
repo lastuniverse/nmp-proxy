@@ -1,0 +1,31 @@
+{
+  "name": "test_bot",
+  "version": "0.0.1",
+  "description": "Simple testbot",
+  "main": "test_bot.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "test_bot",
+    "testbot",
+    "bot"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "test_bot@0.0.1",
+  "dist": {},
+  "_from": "test_bot@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

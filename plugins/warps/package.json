@@ -1,0 +1,30 @@
+{
+  "name": "warps",
+  "version": "0.0.1",
+  "description": "warps tool",
+  "main": "warps.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "warps",
+    "warp"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "warps@0.0.1",
+  "dist": {},
+  "_from": "warps@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

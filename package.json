@@ -1,0 +1,41 @@
+{
+  "name": "nmp-proxy",
+  "description": "An example module to use node-minecraft-protocol proxy server",
+  "version": "0.0.1",
+  "author": {
+    "name": "lastuniverse",
+    "email": "kapa6ac@inbox.ru"
+  },
+  "keywords": [
+    "minecraft",
+    "minecraft-protocol",
+    "proxy"
+  ],
+  "directories": {
+    "lib": "./lib",
+    "plugins": "./plugins"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lastuniverse/nmp-proxy.git"
+  },
+  "bugs": {
+     "url": "https://github.com/lastuniverse/nmp-proxy/issues"
+  },
+  "dependencies": {
+    "minecraft-protocol": "https://github.com/PrismarineJS/node-minecraft-protocol/tarball/master",
+    "rcon": "*",
+    "ansi-color": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  },
+  "main": "./nmp-proxy.js",
+  "homepage": "https://github.com/lastuniverse/nmp-proxy",
+  "scripts": {
+    "install": "./scripts/install.sh",
+    "start": "node nmp-proxy.js"
+  },
+  "engines": {
+    "node": ">=0.8.16"
+  }
+}

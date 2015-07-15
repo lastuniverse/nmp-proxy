@@ -1,0 +1,30 @@
+{
+  "name": "commands",
+  "version": "0.0.1",
+  "description": "commands agregator",
+  "main": "commands.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "commands",
+    "command"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "commands@0.0.1",
+  "dist": {},
+  "_from": "commands@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

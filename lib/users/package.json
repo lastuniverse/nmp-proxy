@@ -1,0 +1,30 @@
+{
+  "name": "users",
+  "version": "0.0.1",
+  "description": "users",
+  "main": "users.js",
+  "scripts": {},
+  "dependencies": {  },
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "users",
+    "user"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "users@0.0.1",
+  "dist": {},
+  "_from": "users@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

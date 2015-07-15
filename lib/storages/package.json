@@ -1,0 +1,32 @@
+{
+  "name": "storages",
+  "version": "0.0.1",
+  "description": "storages",
+  "main": "storages.js",
+  "scripts": {},
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "devDependencies": {},
+  "repository": {},
+  "keywords": [
+    "storages",
+    "storages"
+  ],
+  "author": {
+    "name": "lastuniverse"
+  },
+  "license": "NONE",
+  "bugs": {},
+  "homepage": "https://github.com/lastuniverse",
+  "_id": "storages@0.0.1",
+  "dist": {},
+  "_from": "storages@0.0.1",
+  "maintainers": [
+    {
+      "name": "lastuniverse",
+      "email": "kapa6ac@inbox.com"
+    }
+  ],
+  "directories": {}
+}

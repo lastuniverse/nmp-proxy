@@ -1,0 +1,12 @@
+{
+	"storage_list": {
+		"type": "file",
+		"path": "./storages/storage_list.json",
+		"dir": "./lib/storages/storages/storage_list.json"
+	},
+	"users": {
+		"type": "dir",
+		"path": "./storages/users",
+		"dir": "./lib/storages/storages/users"
+	}
+}
